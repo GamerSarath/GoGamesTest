@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MemoryManager
+  - SceneManager
+  - NextButton
+  - RetrieveInfoButton
+  - UIManager
+  - GameManager
+  - PlayerPlaceField
+  - PlayerNameField
+  - PlayerMobileField
+  - SaveButton
+  - BackButton
+  - PlayerTypeDropDown
+  - NewPlayerButton
+  - LoadPlayerButton
+  - ExitButton
+  - NewPlayerPanel
+  - LoadPlayerPanel
+  - NewPLayerBackButton
+  - LoadPlayerBackButton
+  - HomePanel
+  - HomeButton
+  - LoadButton
+  - Target
+  - JsonText
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
